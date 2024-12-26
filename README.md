@@ -1,4 +1,8 @@
-# SR-FLIPFLOP-USING-CASE
+# EXPERIMENT-6-SR-FLIPFLOP-USING-CASE
+
+# NAME: PRASIDHA A
+
+# REGISTER NUMBER: 24005839
 
 **AIM:**
 
@@ -32,17 +36,33 @@ By using three variable K-Map, we can get the simplified expression for next sta
  
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=S+R′Q(t)Q(t+1)=S+R′Q(t)
 
-**Procedure**
+**PROCEDURE**
 
-/* write all the steps invloved */
+ 1. Type the program in quartus software
+ 2. Complete and run the program
+ 3. Generate the RTL schematic and save the logic diagram
+ 4. Create nodes for inputs and outputs to generate the timing diagram
+ 5. for different input combinations generate the timing diagram
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
+![P 6](https://github.com/user-attachments/assets/193f4d63-2a05-47f3-bbfc-576c81edc82e)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+
+![Screenshot 2024-12-26 111845](https://github.com/user-attachments/assets/89eacc90-49cd-4e03-973b-bebe910bd8e5)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+
+![Screenshot 2024-12-26 111909](https://github.com/user-attachments/assets/4eec54cd-7e04-4bff-94e5-2166923652fe)
+
+
 **RESULTS**
+
+Thus SR flipflop using verilog was implemented and validated their functionality
+ using their function tables.
